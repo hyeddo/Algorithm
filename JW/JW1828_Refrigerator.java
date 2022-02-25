@@ -9,7 +9,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class JO1828_Refrigerator {
+public class JW1828_Refrigerator {
 
     public static class Temparature implements Comparable<Temparature> {
         int lowest, highest;

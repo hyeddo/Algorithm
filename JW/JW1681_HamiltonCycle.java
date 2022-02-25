@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.StringTokenizer;
 
-public class JO1681_HamiltonCycle {
+public class JW1681_HamiltonCycle {
 
     static int N, ans;
     static int[][] map;
